@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *shubham742jha@gmail.com*
 
-- 📄 Know about my experiences [https://portfolio-ashy-gamma-65.vercel.app/](https://portfolio-ashy-gamma-65.vercel.app/)
+- 📄 Know about my experiences [https://portfolio-gx7a.vercel.app/about](https://portfolio-gx7a.vercel.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
